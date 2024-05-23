@@ -8,7 +8,7 @@ public class Pessoa {
 	private int idade;
 
 	public String getNome() {
-		return nome;
+		return nome;v
 	}
 
 	public void setNome(String nome) {
