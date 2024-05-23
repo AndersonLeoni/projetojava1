@@ -1,4 +1,4 @@
-package projetojava1;
+package projetojava.curso;
 
 public class PrimeiraClasse {
 	public static void main(String[] args) {
