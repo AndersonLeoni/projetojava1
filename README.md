@@ -6,3 +6,4 @@
   - Comandos mais utilizados
   - Adicionando projeto no github
   - Adicionando pastas e arquivos no projeto e dando commit no github
+  - Histórico e Revert para a Base
